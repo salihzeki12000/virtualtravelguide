@@ -1,0 +1,31 @@
+
+/*CSS FOR ADMIN LOGIN PAGE*/
+.loginform
+{
+  background:#F7F9FA;
+  padding:30px;
+  box-shadow:0px 5px 5px silver;
+  margin-top:60px;
+}
+.loginform .logo
+{
+  height:80px;
+
+}
+.loginform .button
+{
+}
+
+.current
+{
+  background:white;
+  color:#007BFF;
+}
+table
+{
+  text-align:center;
+}
+table th
+{
+  text-align:center;
+}
